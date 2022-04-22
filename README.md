@@ -1,7 +1,7 @@
 
 ## About Me
-- 👋 Hi, I’m @siegan-g, software development student
-- Studying C# using dotnet core and dotnet framework, Java, SQL, Nosql, web development focusing on MVC frameworks
+- 👋 Hi, I’m @siegan-g, a CIS student
+- Studying C# w/ .NET & ASP.NET , Java, SQL, Mongo
 - Trying to find time to learn Python, HTML/CSS and JS
 
 
