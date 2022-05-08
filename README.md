@@ -1,7 +1,6 @@
-
 ## About Me
-- 👋 Hi, I’m @siegan-g, a final year CIS student
-<br/>
+👋 Hi, I’m @siegan-g, a final year CIS student
+
 Currently Studying 💻: 
   - C# w/ .NET & ASP.NET , WPF/UWP 
   - Java -> Android, JavaFx 
