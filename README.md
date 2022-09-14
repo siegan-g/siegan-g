@@ -1,5 +1,5 @@
 ## About Me
-<hr/>
+
 👋 Hi, I’m @siegan-g, a final year CIS student
 
 Currently Studying : 
@@ -8,7 +8,7 @@ Currently Studying :
   - Angular, HTML/CSS
   - T-SQL,PL/SQL, MongoDB
   - Trying to find time to learn Python 
-  
+
  Likes :
  - Plants 🪴
  - Animals 🐱
