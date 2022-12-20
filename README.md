@@ -1,11 +1,11 @@
 ## About Me
 
-👋 Hi, I’m @siegan-g, a final year CIS student
+👋 Hi, I’m @siegan-g, a graduate CIS student
 
 Currently Studying : 
   - C# w/ .NET & ASP.NET , WPF/UWP 
   - Java w/ Android  
-  - Angular, HTML/CSS
+  - MEAN stack web dev
   - T-SQL,PL/SQL, MongoDB
   - Trying to find time to learn Python 
 
