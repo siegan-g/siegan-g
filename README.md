@@ -1,19 +1,26 @@
-## About Me
+# Hi there! 👋 I'm Siegan Govender
+## 🚀 Full-Stack Software Developer
+With over three years of experience in full-stack software development, I specialize in building efficient, scalable, and user-friendly applications using a diverse set of technologies. My passion lies in crafting clean code and delivering impactful solutions that meet both user and business needs.
 
-👋 Hi, I’m @siegan-g, a graduate CIS student
-
-Currently Studying : 
-  - C# w/ .NET & ASP.NET , WPF/UWP 
-  - Java w/ Android  
-  - MEAN stack web dev
-  - T-SQL,PL/SQL, MongoDB
-  - Trying to find time to learn Python 
-
- Likes :
- - Plants 🪴
- - Animals 🐱
- - Punk music 🎸
- - Poetry 📖
- - Making funny electricty machine flip 0s and 1s 💻 
-
-
+## 🛠️ Technologies & Tools
+**Programming Languages**:
+C#
+Python
+Golang
+**Frontend Frameworks**:
+Next.js
+React.js
+Angular.js
+**Backend Development**:
+ASP.NET
+FastAPI
+Gin (Golang Framework)
+**Database Management**:
+SQL Server
+PostgreSQL
+MariaDB
+MongoDB
+**Other Tools & Platforms**:
+Git/GitHub
+Docker
+Azure/AWS
