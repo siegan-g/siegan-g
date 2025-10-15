@@ -8,6 +8,7 @@ With over three years of experience in full-stack software development, I specia
   - C#
   - Python
   - Golang
+  - JavaScript
 - **Frontend Frameworks**:
   - Next.js
   - React.js
@@ -27,6 +28,11 @@ With over three years of experience in full-stack software development, I specia
   - Azure/AWS
 
 ---
-![siegan-g's Stats](https://github-readme-stats.vercel.app/api?username=siegan-g&theme=buefy&show_icons=true&hide_border=true&count_private=true)
 
-![siegan-g's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siegan-g&theme=buefy&hide_border=true)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=siegan-g&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/siegan-g"
+  width="600"
+  height="300"
+/>
+</a>
